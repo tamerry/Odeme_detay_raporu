@@ -1,2 +1,1 @@
-# Odeme_detay Raporu
- 
+Genius Open Yazar kasa satışları ödeme detay raporu 
